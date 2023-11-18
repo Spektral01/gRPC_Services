@@ -1,0 +1,2 @@
+obj\Debug\Protos/Calculator.cs \
+obj\Debug\Protos/CalculatorGrpc.cs: Protos/calculator.proto
